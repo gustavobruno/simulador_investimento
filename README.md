@@ -1,4 +1,4 @@
-# 📈 Simulador de Investimento com Juros Compostos
+#  Simulador de Investimento com Juros Compostos
 
 Este projeto é um simulador financeiro que calcula o crescimento de um investimento ao longo do tempo, considerando:
 
@@ -16,6 +16,8 @@ O simulador aplica a fórmula de juros compostos com aportes periódicos, gerand
 - Detalhamento entre:
   - Total investido (aportes)
   - Total em juros acumulados
+  
+<img width="1422" height="791" alt="home" src="https://github.com/user-attachments/assets/bf57b186-ae12-45c2-b906-850ae996efdd" />
 
 ### Exemplo de saída
 
