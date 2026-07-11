@@ -7,7 +7,7 @@ Este projeto é um simulador financeiro que calcula o crescimento de um investim
 - **Taxa de juros anual** (composta mensalmente)
 - **Período de investimento** (em anos)
 
-## 🧮 Como funciona
+## Como funciona
 
 O simulador aplica a fórmula de juros compostos com aportes periódicos, gerando:
 
